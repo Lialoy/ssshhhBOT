@@ -2,3 +2,4 @@
 .env
 /.idea
 /db/database.db
+index_test.js
